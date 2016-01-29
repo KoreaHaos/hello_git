@@ -7,10 +7,15 @@ git push --all
 git reference:
 https://git-scm.com/book/en/v2/
 
-git graphical(built-in):
+git graphical(built-in(non-command-line)):
 https://git-scm.com/docs/gitk
 https://git-scm.com/docs/git-gui
 https://git-scm.com/book/en/v2/Git-in-Other-Environments-Graphical-Interfaces
+
+
+git graphical(built-in(command-line)):
+https://github.com/orefalo/g2
+https://github.com/orefalo/g2/tree/gh-pages
 
 tools:
 
