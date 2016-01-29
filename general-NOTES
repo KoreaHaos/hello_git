@@ -1,0 +1,20 @@
+basic commands:
+git clone [URL]
+git add --all
+git commit -m '(Message)'
+git push --all
+
+tools:
+
+portable git for windows:
+32-bit:
+https://github.com/git-for-windows/git/releases/download/v2.7.0.windows.1/PortableGit-2.7.0-32-bit.7z.exe
+64-bit:
+https://github.com/git-for-windows/git/releases/download/v2.7.0.windows.1/PortableGit-2.7.0-64-bit.7z.exe
+
+git for linux:
+apt-get install git
+
+gitflow:
+https://github.com/nvie/gitflow
+https://vimeo.com/16018419
