@@ -4,6 +4,13 @@ git add --all
 git commit -m '(Message)'
 git push --all
 
+git reference:
+https://git-scm.com/book/en/v2/
+
+git graphical(built-in):
+https://git-scm.com/docs/gitk
+https://git-scm.com/docs/git-gui
+
 tools:
 
 portable git for windows:
@@ -27,6 +34,9 @@ http://brettterpstra.com/2013/02/13/quick-tip-chrome-extensions-that-make-github
 gitflow:
 https://github.com/nvie/gitflow
 https://vimeo.com/16018419
+
+git gui:
+https://git-scm.com/book/en/v2/Git-in-Other-Environments-Graphical-Interfaces
 
 gitzen:
 https://www.zenhub.io/
